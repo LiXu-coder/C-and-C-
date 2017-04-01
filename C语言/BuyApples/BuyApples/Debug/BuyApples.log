@@ -1,0 +1,4 @@
+﻿  BuyApples.cpp
+g:\visual studio 2017\projects\c语言\buyapples\buyapples\buyapples.cpp(8): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  BuyApples.vcxproj -> G:\visual studio 2017\Projects\C语言\BuyApples\Debug\BuyApples.exe
+  BuyApples.vcxproj -> G:\visual studio 2017\Projects\C语言\BuyApples\Debug\BuyApples.pdb (Partial PDB)

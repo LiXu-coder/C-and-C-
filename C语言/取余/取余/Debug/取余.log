@@ -1,0 +1,5 @@
+﻿  取余.cpp
+g:\visual studio 2017\projects\c语言\取余\取余\取余.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+  取余.vcxproj -> G:\visual studio 2017\Projects\C语言\取余\Debug\取余.exe
+  取余.vcxproj -> G:\visual studio 2017\Projects\C语言\取余\Debug\取余.pdb (Partial PDB)
